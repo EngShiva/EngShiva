@@ -1,4 +1,7 @@
 <!-- Profile README for EngShiva -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EngShiva/EngShiva/main/assets/Github%20Banner.png" alt="GitHub Banner" />
+</p>
 
 <h1 align="center">Hey there! 👋 I am A Shiva Rao</h1>
 <h3 align="center">🚀 Software Engineer | ⚙️ Backend Developer | 💻 C++ Enthusiast</h3>
