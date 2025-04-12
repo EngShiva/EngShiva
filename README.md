@@ -1,6 +1,6 @@
 <!-- Profile README for EngShiva -->
 
-<h1 align="center">Hey there! 👋 I'm A Shiva Rao</h1>
+<h1 align="center">Hey there! 👋 I am A Shiva Rao</h1>
 <h3 align="center">🚀 Software Engineer | ⚙️ Backend Developer | 💻 C++ Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-🎯 I'm a **C++ Developer** with 3+ years of backend development experience in aviation tech at **Accelya Services India Pvt. Ltd.**  
+🎯 I'm a **C++ Developer** with 3 years of backend development experience in aviation tech at **Accelya Services India Pvt. Ltd.**  
 🧠 Passionate about writing efficient code, solving complex problems, and building scalable systems.  
 🚢 Currently working on **FLX SHOP and PRICE**, a real-time fare engine used by top global airlines.  
 ⚒️ I thrive on debugging, performance tuning, and refactoring legacy systems to modern standards.
@@ -34,8 +34,8 @@
 
 ### 🧩 Projects Worth Checking Out
 
-🔹 **[Tic-Tac-Toe](https://github.com/EngShiva/TicTacToe)** – Interactive game with Python & Tkinter  
-🔹 **[High-Low Guessing Game](https://github.com/EngShiva/HighLowGame)** – Android game using Java & XML  
+🔹 **[Tic-Tac-Toe](https://github.com/EngShiva/Tic-Tac-Toe-Game)** – Interactive game with Python & Tkinter  
+🔹 **[High-Low Guessing Game](https://github.com/EngShiva/High-Low-Game)** – Android game using Java & XML  
 
 > Check out more on my [GitHub Repositories](https://github.com/EngShiva?tab=repositories)
 
