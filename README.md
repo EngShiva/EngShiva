@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shiva6102/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://leetcode.com/u/Shiva6102/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/EngShiva/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" /></a>
   <a href="mailto:shivarao6102@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
