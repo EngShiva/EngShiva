@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-🎯 I'm a **C++ Developer** with 3 years of **Backend Development** experience in aviation tech at **Accelya Group**  
+🎯 I am a **C++ Developer** with 3.5 years of **Backend Development** experience in aviation and manufacturing tech.  
 🧠 Passionate about writing efficient code, solving complex problems, and building scalable systems.  
-🚢 Currently working on **FLX SHOP and PRICE**, a real-time fare engine used by top global airlines.  
+🚢 Currently working on **Siemens Teamcenter Service Plan**, a Product Lifecycle Management web applications used by top global clients like US Airforce, lockeed etc.  
 ⚒️ I thrive on debugging, performance tuning, and refactoring legacy systems to modern standards.
 
 ---
@@ -23,7 +23,7 @@
 
 | Category | Technologies |
 |---------|--------------|
-| 💻 Languages | C++, C, Java, Python, SQL |
+| 💻 Languages | C++, C, Java, Python, JavaScript, ReachJS, SQL |
 | 🛠 Tools | Git, GitLab, GitHub, Jira, Visual Studio, Eclipse, VS Code |
 | 🔌 APIs & Web | REST, SOAP, JSON, XML |
 | ⚙️ Concepts | DSA, OOP, DBMS, OS, Agile, SDLC |
@@ -42,7 +42,7 @@
 
 ### 🏆 Achievements & Highlights
 
-✅ Delivered **20+ key features** for airline fare systems adhering to IATA & ATPCO standards  
+✅ Delivered **20+ key features** for airline fare systems adhering to IATA & ATPCO standards.  
 🐞 Resolved **50+ critical issues** independently across production environments  
 💼 Led cross-functional team efforts in maintaining and enhancing core legacy systems  
 📈 Improved software performance and system reliability for high-traffic airline clients
