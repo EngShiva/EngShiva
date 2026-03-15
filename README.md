@@ -23,7 +23,7 @@
 
 | Category | Technologies |
 |---------|--------------|
-| 💻 Languages | C++, C, Java, Python, JavaScript, ReachJS, SQL |
+| 💻 Languages | C++, C, Java, Python, JavaScript, ReactJS, SQL |
 | 🛠 Tools | Git, GitLab, GitHub, Jira, Visual Studio, Eclipse, VS Code |
 | 🔌 APIs & Web | REST, SOAP, JSON, XML |
 | ⚙️ Concepts | DSA, OOP, DBMS, OS, Agile, SDLC |
