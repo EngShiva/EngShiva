@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineer | ⚙️ Backend Developer | 💻 C++ Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shiva6102/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/a-shiva-rao/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/EngShiva/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" /></a>
   <a href="mailto:shivarao6102@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
@@ -12,10 +12,18 @@
 
 ### 👨‍💻 About Me
 
-🎯 I am a **C++ Developer** with 3.5 years of **Backend Development** experience in aviation and manufacturing tech.  
-🧠 Passionate about writing efficient code, solving complex problems, and building scalable systems.  
-🚢 Currently working on **Siemens Teamcenter Service Plan**, a Product Lifecycle Management web applications used by top global clients like US Airforce, lockeed etc.  
-⚒️ I thrive on debugging, performance tuning, and refactoring legacy systems to modern standards.
+🎯 I am a **Backend-focused C++ Developer** with 3.5+ years of experience building and optimizing **high-performance, real-time systems** in the aviation and digital manufacturing domains.  
+
+🚀 **Currently working at Siemens** on **Teamcenter (Service Lifecycle Management - SLM)** — a large-scale PLM platform used by global enterprises like Boeing, Lockheed Martin, and the United States Air Force — where I design and develop backend systems in C++ and contribute to end-to-end feature delivery.  
+
+💡 Previously, I worked on a **real-time airline pricing engine**, solving complex fare computation problems and optimizing critical production flows used by major airlines.  
+
+⚒️ I specialize in:
+- Performance optimization of large, legacy codebases  
+- Debugging and resolving critical production issues  
+- Designing scalable backend systems for high-throughput applications  
+
+🧠 I enjoy solving complex system-level problems and writing clean, maintainable code that scales.
 
 ---
 
@@ -23,37 +31,44 @@
 
 | Category | Technologies |
 |---------|--------------|
-| 💻 Languages | C++, C, Java, Python, JavaScript, ReactJS, SQL |
-| 🛠 Tools | Git, GitLab, GitHub, Jira, Visual Studio, Eclipse, VS Code |
+| 💻 Languages | C++, C, Java, Python, JavaScript, SQL |
+| 🛠 Tools | Git, GitHub, GitLab, Jira, Visual Studio, VS Code |
 | 🔌 APIs & Web | REST, SOAP, JSON, XML |
-| ⚙️ Concepts | DSA, OOP, DBMS, OS, Agile, SDLC |
-| 🌐 Other | Android Studio, ODBC, Airline Protocols |
-
----
-
-### 🧩 Projects Worth Checking Out
-
-🔹 **[Tic-Tac-Toe](https://github.com/EngShiva/Tic-Tac-Toe-Game)** – Interactive game with Python & Tkinter  
-🔹 **[Simple-Calculator](https://github.com/EngShiva/Simple-Calculator)** – A modern GUI calculator built using Python and Tkinter
-
-> Check out more on my [GitHub Repositories](https://github.com/EngShiva?tab=repositories)
+| ⚙️ Concepts | DSA, OOP, DBMS, OS, Agile, SDLC, Multithreading |
+| 🌐 Other | Linux, Windows, CI/CD, Backend Systems |
 
 ---
 
 ### 🏆 Achievements & Highlights
 
-✅ Delivered **20+ key features** for airline fare systems adhering to IATA & ATPCO standards.  
-🐞 Resolved **50+ critical issues** independently across production environments  
-💼 Led cross-functional team efforts in maintaining and enhancing core legacy systems  
-📈 Improved software performance and system reliability for high-traffic airline clients
+#### 🏭 Siemens (Current Role — Digital Manufacturing)
+🏗️ Contributing to **Service Lifecycle Management (SLM)**, a key part of Teamcenter(a large-scale enterprise PLM system)  
+⚙️ Designing and developing **frontend using Siemens’ web framework and backend using C++** aligned with complex business workflows
+🧪 Improving system reliability through **test automation (Cucumbers & xUnits)** and defect resolution  
+🤝 Collaborating across teams to deliver end-to-end, customer-driven features
+
+#### ✈️ Accelya (Airline Domain)
+✅ Delivered **20+ production-grade features** for airline pricing systems following ATPCO standards  
+🐞 Resolved **60+ critical defects (P1–P3)** across SIT, UAT, Pre-Prod, and production environments  
+📈 Improved fare pricing efficiency by **23%** by redesigning open-jaw validation logic  
+⚡ Reduced overall ticketing time by **15%** by optimizing backend execution paths  
+💰 Resolved a **critical production issue**, preventing losses of ~$1.25M/month  
 
 ---
 
 ### 📚 Education & Certifications
 
-🎓 **B.Tech in Computer Science (9.51 CGPA)** — Supreme Knowledge Foundation Group  
-📜 **NPTEL Certifications** – C Programming | Java Programming  
-🔍 Consistent performance in core CS subjects – DSA, OS, DBMS, Software Engineering
+🎓 **B.Tech in Computer Science (CGPA: 9.51)** — Supreme Knowledge Foundation Group of Institutions  
+🔍 Strong foundation in Data Structures, Operating Systems, DBMS, Computer Networks, and Software Engineering  
+
+---
+
+### 🧩 Projects Worth Checking Out
+
+🔹 **[Tic-Tac-Toe](https://github.com/EngShiva/Tic-Tac-Toe-Game)** – Interactive game built with Python & Tkinter  
+🔹 **[Simple-Calculator](https://github.com/EngShiva/Simple-Calculator)** – GUI calculator using Python and Tkinter  
+
+> Check out more on my [GitHub Repositories](https://github.com/EngShiva?tab=repositories)
 
 ---
 
@@ -62,15 +77,15 @@
 If you're a recruiter, a developer, or just someone passionate about building cool tech — let’s connect and collaborate!
 
 📫 Email: [shivarao6102@gmail.com](mailto:shivarao6102@gmail.com)  
-🌐 Portfolio: Coming soon... 😉  
+🌐 Portfolio: Coming soon... 😉
 
 ---
 
 ### ⚡ Fun Facts
 
-- 🎧 Music lover and problem solver — sometimes both at once!
-- 💡 I believe in **writing clean code**, not just code that works.
-- 🧩 Debugging is like solving a mystery—each bug has its own story.
+- 🎧 Music lover and problem solver — sometimes both at once!  
+- 💡 I believe in **writing clean, maintainable code**, not just code that works  
+- 🧩 Debugging feels like solving a mystery—every bug has a story  
 
 ---
 
