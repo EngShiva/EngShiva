@@ -42,11 +42,10 @@
 ### 🏆 Achievements & Highlights
 
 #### 🏭 Siemens (Current Role — Digital Manufacturing)
-🏗️ Contributing to **Service Lifecycle Management (SLM)**, a key part of Teamcenter(a large-scale enterprise PLM system)  
-⚙️ Designing and developing **frontend using Siemens’ web framework and backend using C++** aligned with complex business workflows
-
-🧪 Improving system reliability through **test automation (Cucumbers & xUnits)** and defect resolution  
-🤝 Collaborating across teams to deliver end-to-end, customer-driven features
+🏗️ Contributing to **Service Lifecycle Management (SLM)**, a key part of Teamcenter(a large-scale enterprise PLM system).
+⚙️ Designing and developing **frontend using Siemens’ web framework and backend using C++** aligned with complex business workflows.
+🧪 Improving system reliability through **test automation (Cucumbers & xUnits)** and defect resolution.  
+🤝 Collaborating across teams to deliver end-to-end, customer-driven features.
 
 #### ✈️ Accelya (Airline Domain)
 ✅ Delivered **20+ production-grade features** for airline pricing systems following ATPCO standards  
