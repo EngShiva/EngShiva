@@ -1,6 +1,6 @@
 <!-- Profile README for EngShiva -->
 <h1 align="center">Hello World 👋 I am A Shiva Rao</h1>
-<h3 align="center">🚀 Software Engineer | ⚙️ Backend Developer | 💻 C++ Enthusiast</h3>
+<h3 align="center">🚀 Software Development Engineer | ⚙️ Backend Developer | 💻 C++ Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/a-shiva-rao/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-🎯 I am a **Backend-focused C++ Developer** with 3.5+ years of experience building and optimizing **high-performance, real-time systems** in the aviation and digital manufacturing domains.  
+🎯 I am a **Software Development Engineer** with 3.5+ years of experience building and optimizing **high-performance, real-time systems** in the aviation and digital manufacturing domains.  
 
-🚀 **Currently working at Siemens** on **Teamcenter (Service Lifecycle Management - SLM)** — a large-scale PLM platform used by global enterprises like Boeing, Lockheed Martin, and the United States Air Force — where I design and develop backend systems in C++ and contribute to end-to-end feature delivery.  
+🚀 **Currently working at Siemens** on **Teamcenter (Service Lifecycle Management - SLM)** — a large-scale PLM platform used by global enterprises like Boeing, Lockheed Martin, the United States Air Force and many more — where I design and develop backend systems in C++ and contribute to end-to-end feature delivery.  
 
-💡 Previously, I worked on a **real-time airline pricing engine**, solving complex fare computation problems and optimizing critical production flows used by major airlines.  
+💡 **Previously, I worked at Accelya Group** on a **FLX Shop & Price** — a real-time airline pricing engine, solving complex fare computation problems and optimizing critical production flows used by major airlines.  
 
 ⚒️ I specialize in:
 - Performance optimization of large, legacy codebases  
